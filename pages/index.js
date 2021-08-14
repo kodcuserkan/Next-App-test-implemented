@@ -14,6 +14,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to Next App with Test Procedure
         </h1>
+        <p>some changes</p>
         
     </div>
   )
